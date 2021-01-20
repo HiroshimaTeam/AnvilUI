@@ -6,9 +6,9 @@
 
 ---
 ### How to use
-[ENG] Configure in config.yml texts and xp to need rename and repare </br>
+[ENG] Configure in config.yml texts and xp to need rename and repare + Need FormAPI depend</br>
 
-[FRA] Configurer dans le config.yml les texts et l'xp necéssaire pour rename et reparer </br>
+[FRA] Configurer dans le config.yml les texts et l'xp necéssaire pour rename et reparer + Doit avoir FormAPI d'installer</br>
 
 ---
 ### **This plugin was tested (and works) on:**
