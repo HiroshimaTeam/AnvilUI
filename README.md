@@ -10,6 +10,8 @@
 
 [FRA] Configurer dans le config.yml les texts et l'xp necéssaire pour rename et reparer + Doit avoir FormAPI d'installer</br>
 
+FormAPI: https://poggit.pmmp.io/p/FormAPI/1.3.0
+
 ---
 ### **This plugin was tested (and works) on:**
 
