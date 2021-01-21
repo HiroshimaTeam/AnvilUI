@@ -19,13 +19,13 @@ FormAPI: https://poggit.pmmp.io/p/FormAPI/1.3.0
 ---
 ### **LordHosting Partner**
 
-- [ENG] Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code __**HIROTEAM**__ 10% FREE </br>
+- [ENG] Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code __**HiroTeam**__ 10% FREE </br>
 -> Website : https://clients.lordhosting.fr </br>
--> Discord : https://discord.gg/rRss47k </br>
+-> Discord : https://discord.gg/BVyF2D4ESt </br>
 
-- [FRA] Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction __**HIROTEAM**__ 10% DE REDUCTION </br>
+- [FRA] Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction __**HiroTeam**__ 10% DE REDUCTION </br>
 -> Site Web: https://clients.lordhosting.fr </br>
--> Discord : https://discord.gg/rRss47k </br>
+-> Discord : https://discord.gg/BVyF2D4ESt </br>
 ---
 ### Contacts HiroTeam
 
