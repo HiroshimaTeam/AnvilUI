@@ -1,18 +1,5 @@
 name: AnvilUI
-version: 0.1
+version: 2.0
 api: 3.0.0
-main: Anvil\Anvil
+main: Anvil\AnvilMain
 author: Digueloulou12
-depend:
-  - FormAPI
-
-commands:
-  anvilreload:
-    permission: "anvilreload.use"
-    description: "Reload the configs of the AnvilUI plugin from Digueloulou12"
-    usage: "/anvilreload"
-
-permissions:
-  anvilreload.use:
-    description: "Give access to the command"
-    default: "op"
