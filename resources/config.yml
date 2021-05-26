@@ -1,49 +1,53 @@
 ---
-message.reload: "The config has been reloaded!"
-# Message that a player will receive when they use the / anvilreload command
+# Config
+config: 2
 
-air.item: "You can't interact with the anvil!"
-# Message a player will receive when he clicks on an anvil with an air block in his hand
 
-# UI Main
-title: "AnvilUI"
-texte: "Choose:"
-rename: "Rename"
-repair: "Repair"
-close: "close"
 
-# Message for when a player will close the anvil with the button
-# Set true if he will receive one, set false if he will receive nothing
-true.or.false: true
-message: "You just closed the anvilUI"
+# Anvil Command
+command: true
 
-# Rename
-# Message that a player will receive if he has not entered a name
-no.name: "Enter a valid name"
-# XP level needed to rename an item
-xp.rename: "1"
-# Message that a player will receive if he does not have enough xp
-no.xp: "You don't have enough xp!"
-# Message that a player will receive when he has renamed the item he has in his hand
-rename.good: "Your item has been renamed to §c {name}"
-title.rename: "Rename"
-texte.rename: "Rename the item you have in your hand:"
-name.rename: "Enter the new name:"
+description: "Open AnvilUI"
+permission: "anvil.use"
 
-# Repair
-# When a player clicks on the repair button while the item in their hand is not repairing
-objet.non.reparable: "The object you have in your hand cannot be repaired!"
-# Number of xp level for repairing an object
-level.xp.pour.repare: "5"
-# Message that the player will receive if the item he has in his hand is already repaired to the maximum
-item.full: "The object you have in your hand is already repaired to the maximum!"
-# Message a player will receive when the item has been repaired!
-repair.good: "The item you have in your hand has been repaired"
-# Message that a player will receive if he does not have enough xp to repair the item
-no.xp: "You don't have enough xp!"
-# UI
-title.repair: "Repair"
-texte.repair: "Are you really sure you want to repair the item you have in your hand?"
-yes.repair: "Yes"
-no.repair: "No"
+console: "The command must be executed in-game!"
+noperm: "You do not have permission to use this command!"
+
+# AnvilReload Command
+descriptionr: "Reload config AnvilUI by Digueloulou12"
+permissionr: "anvilreload.use"
+
+nopermr: "You do not have permission to use this command!"
+reloadgood: "The configs have been reloaded! "
+
+# Anvil
+noitem: "You cannot interact with the anvil with air in your hand!"
+renamenull: "You must have given a name!"
+xprename: 3
+renamegood: "You have just renamed your item in {NAME}"
+noxprename: "You don't have enough xp to rename your item!"
+norepair: "You cannot repair this item!"
+norepairmeta: "You can no longer repair this item!"
+xprepair: 5
+repairgood: "You have just repaired your item for 5 xp level!"
+noxprepair: "ou don't have enough xp for repair!"
+
+# Main Form
+mainform:
+  title: "AnvilUI"
+  content: "Choose what you want to do:"
+  rename: "Rename"
+  repair: "Repair"
+
+# Rename Form
+renameform:
+  title: "AnvilUI"
+  content: "Rename item in hand:"
+  name: "Name"
+
+repairform:
+  title: "AnvilUI"
+  content: "Repair item in hand:\n§7(Do you want to repair the item in your hand for 5 xp levels?)"
+  yes: "yes"
+  no: "no"
 ...
